@@ -1,2 +1,2 @@
 # PINN-for-charring-materials
-The code of 'Physics-informed neural networks for rapidly solving thermal response of charring materials'
+The code of 'Physics-informed neural networks for rapidly solving thermal response of charring materials' submitted to ACTA ASTRONAUTICA.
